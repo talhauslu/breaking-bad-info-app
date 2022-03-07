@@ -2,6 +2,13 @@
 
 Breking Bad app
 
+## To-Do
+* Random icon will be added
+* Episodes pages will be fixed
+* Characters page grid view will be fixed
+* Character details page will be fixed
+* Maybe some design improvements
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
