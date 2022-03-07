@@ -8,6 +8,8 @@ Breking Bad app
 * Characters page grid view will be fixed
 * Character details page will be fixed
 * Maybe some design improvements
+* Screenshots and (maybe)apk will be added to readme
+* Google play link will be added to readme after all is done
 
 ## Getting Started
 
