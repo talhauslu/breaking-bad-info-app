@@ -1,7 +1,7 @@
 # breaking_bad
 
 Breking Bad app
-*Important update: API is broken
+* Important update: API is broken
 
 ## To-Do
 * Random icon will be added
